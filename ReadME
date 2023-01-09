@@ -1,0 +1,40 @@
+# ReadME Inquirer Generator!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Description
+
+This week we learned about packages and how inquirer does just this! Questions, Answers, and sending it all somewhere to show  the user!
+
+## Table of Contents 
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+use the command line to input "n p m i inquirer@8.2.4" 
+
+## Usage
+
+To provide a glimpse into back end techniologies like packages that can be installed on a command line!
+
+## License
+
+MIT
+
+## Features
+
+inquirer version 8.2.4! and the power of computation!
+
+## Tests
+
+just like this :)
+
+## Questions
+For additional questions, find me on [github](https://github.com/@suzychambers) or email me at shaheedchambers@gmail.com.
